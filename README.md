@@ -20,3 +20,5 @@ This is a 'backbone' on how a system could be setup to create more sophisticated
 7. Hit the "Spawn Selected Furniture", and it will allow you to place that object in the world.
 
 Please see the video below on a Quick Start Summary:
+
+![](https://github.com/offlinedoctor/Unreal-Editor-Tools/blob/main/EditorToolQuickStartGuide.gif)

@@ -18,3 +18,5 @@ This is a 'backbone' on how a system could be setup to create more sophisticated
 6. On the RHS is a drop down box, select the object you want to use to decorate the environment.
 
 7. Hit the "Spawn Selected Furniture", and it will allow you to place that object in the world.
+
+Please see the video below on a Quick Start Summary:

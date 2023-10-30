@@ -4,6 +4,10 @@ Inspired by a lecture given by an Unreal Engine Evangelist, I became very intere
 
 This is a 'backbone' on how a system could be setup to create more sophisticated Editor Tools, enjoy!
 
+# Compatibility
+
+Unreal Engine 5.3
+
 # How to use
 1. Download this Repo
 

@@ -23,6 +23,3 @@ Unreal Engine 5.3
 
 7. Hit the "Spawn Selected Furniture", and it will allow you to place that object in the world.
 
-Please see the video below on a Quick Start Summary:
-
-![]([https://lh5.googleusercontent.com/-xl7FtoQ_dKvJq9fyeBKzeZPwhqIWnG8q1Tyu8cVxvT8kwCAn3BT98m6f1nbu2OrYeBvaJkFGGQAxd42ecoYN7iRiAvPapH4zB0Vvmvbxmqg5yPJbolozWPOKc4L1_ONLg=w1280)

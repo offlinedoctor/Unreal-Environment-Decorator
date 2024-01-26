@@ -25,4 +25,4 @@ Unreal Engine 5.3
 
 Please see the video below on a Quick Start Summary:
 
-![]([https://github.com/offlinedoctor/Unreal-Editor-Tools/blob/main/EditorToolQuickStartGuide.gif](https://lh5.googleusercontent.com/-xl7FtoQ_dKvJq9fyeBKzeZPwhqIWnG8q1Tyu8cVxvT8kwCAn3BT98m6f1nbu2OrYeBvaJkFGGQAxd42ecoYN7iRiAvPapH4zB0Vvmvbxmqg5yPJbolozWPOKc4L1_ONLg=w1280)https://lh5.googleusercontent.com/-xl7FtoQ_dKvJq9fyeBKzeZPwhqIWnG8q1Tyu8cVxvT8kwCAn3BT98m6f1nbu2OrYeBvaJkFGGQAxd42ecoYN7iRiAvPapH4zB0Vvmvbxmqg5yPJbolozWPOKc4L1_ONLg=w1280)
+![]([https://lh5.googleusercontent.com/-xl7FtoQ_dKvJq9fyeBKzeZPwhqIWnG8q1Tyu8cVxvT8kwCAn3BT98m6f1nbu2OrYeBvaJkFGGQAxd42ecoYN7iRiAvPapH4zB0Vvmvbxmqg5yPJbolozWPOKc4L1_ONLg=w1280)
